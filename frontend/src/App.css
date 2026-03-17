@@ -94,3 +94,12 @@
   height: auto;
   border-radius: 20px;
 }
+@media (max-width: 905px) {
+
+.landingMainContainer{
+  flex-direction: column;
+  text-align: center;
+  gap: 2rem;
+}
+
+}
