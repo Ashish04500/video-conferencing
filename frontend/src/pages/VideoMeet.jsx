@@ -24,7 +24,7 @@ const peerConfigConnections = {
     ]
 }
 
-export default function VideoMeetComponent() {
+export default function VideoMeet() {
 
     var socketRef = useRef();
     let socketIdRef = useRef();
